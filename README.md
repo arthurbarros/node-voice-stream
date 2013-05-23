@@ -1,5 +1,4 @@
 node-voice-stream
 ==============
 
-This is a simple example of how to use Node.js to stream voice over TCP using `Adobe AS3` as streamer/client and `Node.js` as a TCP Server
-
+This is a simples example fo how to stream voice over a TCP Socket Server using `Adobe AS3` as a streamer / reciver and `Node.js` as a TCP server
